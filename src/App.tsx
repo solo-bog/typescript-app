@@ -1,10 +1,9 @@
 import React from 'react';
-import Form from "./Form/Form";
+
+import Form from './Form/Form';
 
 function App() {
-  return (
-      <Form/>
-  );
+  return <Form />;
 }
 
 export default App;
